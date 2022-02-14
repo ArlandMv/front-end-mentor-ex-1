@@ -16,7 +16,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+<!-- **Note: Delete this note and update the table of contents based on what sections you keep.** -->
 
 ## Overview
 
@@ -37,27 +37,30 @@ Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to t
 
 Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+<!-- **Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.** -->
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [netlify-page](https://determined-kepler-18e67a.netlify.app/)
 
 ## My process
+
+I went from top to bottom, or in fact from general to specifics
+First I added the html tags h2 and p to the corresponding kind of text and went on to the others as I needed them such as div with clases to separate each card and later the image tag and button tag and "a tag".
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
+<!-- - CSS Grid
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 - [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- [Styled Components](https://styled-components.com/) - For styles -->
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+<!-- **Note: These are just examples. Delete this note and replace the list above with your own choices** -->
 
 ### What I learned
 

@@ -59,6 +59,7 @@ h6 {
 .cards {
 	display: flex;
 	flex-direction: row;
+	padding: 2rem;
 }
 
 /* .cards > * {
@@ -98,12 +99,15 @@ h6 {
 	background: var(--neutral-grey);
 	text-decoration: none;
 	padding: 10px;
+	border: 3px solid var(--neutral-grey);
 	border-radius: 30px;
 	text-align: center;
 }
-a:hoover {
-	background: violet;
-	border: 2px solid val(--primary-cyan);
+.card .button:hover {
+	color: var(--neutral-grey);
+	background: rgba(0, 0, 0, 0);
+	border: 3px solid var(--neutral-grey);
+	border-radius: 30px;
 }
 
 /* button {
@@ -113,7 +117,7 @@ a:hoover {
 @media screen and (max-width: 600px) {
 	.cards {
 		display: flex;
-		background: var(--primary-cyan-dark);
 		flex-direction: column;
+		padding: 2rem;
 	}
 }
